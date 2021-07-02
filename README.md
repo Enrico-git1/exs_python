@@ -1,6 +1,6 @@
 # Exercícios Python  
 
-#### Seção 2
+##### Seção 2
 
 * Objetivos
   - Exercitar os conhecimentos adquiridos nas aulas.
@@ -11,4 +11,3 @@
   - <a href = "https://github.com/Enrico-git1/exs_python/blob/master/pyexs1/extensao_nome.py">Extensão de nome</a> <br>
   - <a href = "https://github.com/Enrico-git1/exs_python/blob/master/pyexs1/geracpf.py">Gera CPF</a> <br>
   - <a href = "https://github.com/Enrico-git1/exs_python/blob/master/pyexs1/par_ou_impar.py">Par ou ímpar</a> <br>
-
